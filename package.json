@@ -1,0 +1,23 @@
+{
+  "name": "web-module",
+  "version": "0.0.0",
+  "description": "Test building web-module with Jenkins",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node_modules r.js "
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aweaver11/web-module.git"
+  },
+  "author": "aweaver11",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aweaver11/web-module/issues"
+  },
+  "homepage": "https://github.com/aweaver11/web-module",
+  "devDependencies": {
+    "requirejs": "^2.1.18"
+  }
+}
